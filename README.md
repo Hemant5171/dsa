@@ -1,1 +1,1 @@
-# Some of the common DSA problem and there solutions
+# DSA problem and there solutions
